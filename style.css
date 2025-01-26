@@ -1,5 +1,20 @@
 body{
-    margin: 0;
-    background: blue;
+    /* border: 2px solid powderblue; */
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background: white;
     text-align: justify;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-weight: normal;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
 }
